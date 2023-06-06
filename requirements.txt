@@ -3,3 +3,4 @@ openai
 ipykernel
 panel
 tiktoken
+redlines
