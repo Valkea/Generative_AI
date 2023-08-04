@@ -1,0 +1,10 @@
+tqdm
+torch
+wandb
+openai
+tenacity
+python-dotenv
+langchain
+transformers
+datasets
+accelerate>=0.20.1
