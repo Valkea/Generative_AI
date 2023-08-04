@@ -4,3 +4,6 @@ ipykernel
 panel
 tiktoken
 redlines
+langchain
+docarray
+wikipedia
